@@ -7,7 +7,7 @@ I am a **Fullstack Developer** focused on building reliable web and mobile syste
 * **Mobile & Frontend:** Flutter (Dart), JavaScript, Bootstrap, HTML5 & CSS3
 * **Tools & Infrastructure:** Git & GitHub, Docker, Nginx, System Debugging & Optimization
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NightLabs12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
