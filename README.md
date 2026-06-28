@@ -1,6 +1,23 @@
-# Hi there, I'm Rosyiq (Dayat) 👋
+# 🚀 Full-Stack Developer | Custom ERP Specialist & Accounting Information System | Based in Surabaya, Indonesia
 
-I am a **Fullstack Developer** with 3+ years of experience specializing in building web-based ERP systems, mobile sales tools, and robust API architectures. I am passionate about database optimization, clean code, and creating practical software solutions that match real-world workflows.
+<p align="left">
+  <a href="mailto:rosyiqnurilhidayat@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-rosyiqnurilhidayat%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/NightLabs12?tab=followers">
+    <img src="https://img.shields.io/github/followers/NightLabs12?label=FOLLOWERS&style=flat-square&color=0891b2" alt="Followers" />
+  </a>
+  <a href="https://linkedin.com/in/rosyiq-nurilhidayat-a07b0a275">
+    <img src="https://img.shields.io/badge/LINKEDIN-ROSYIQ%20NURIL%20HIDAYAT-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+*I transform chaotic workflows into clean, automated systems—helping businesses reduce operational overhead, secure their data, and scale efficiently.*
+
+---
 
 ## 🧠 What I Do
 I specialize in developing custom **Enterprise Resource Planning (ERP) systems** and **mobile business applications** that streamline operations. 
@@ -48,9 +65,3 @@ My process:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightLabs12&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
-
----
-
-## 📬 Connect with me
-* **LinkedIn:** [Rosyiq Nuril Hidayat](https://linkedin.com/in/rosyiq-nurilhidayat-a07b0a275)
-* **Email:** [rosyiqnurilhidayat@gmail.com](mailto:rosyiqnurilhidayat@gmail.com)
