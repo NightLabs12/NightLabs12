@@ -8,9 +8,14 @@ I am a **Fullstack Developer** focused on building reliable web and mobile syste
 * **Tools & Infrastructure:** Git & GitHub, Docker, Nginx, System Debugging & Optimization
 
 ## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NightLabs12&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightLabs12&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NightLabs12&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NightLabs12&theme=tokyonight" alt="GitHub Streak" height="195" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightLabs12&layout=compact&theme=tokyonight" alt="Most Used Languages" height="195" />
 </p>
 
 ## 📬 Connect with me
