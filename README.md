@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hi there, I'm Rosyiq (Dayat)!</h1>
+<h1 align="center">👋 Hi there, I'm Dayat</h1>
 
 <h3 align="center">
   <strong>🚀 Full-Stack Developer | Custom ERP </strong>
 </h3>
 
 <p align="center">
-  <a href="mailto:rosyiqnurilhidayat@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-rosyiqnurilhidayat%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:nightlab12@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-nightlab12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/rosyiq-nurilhidayat-a07b0a275">
     <img src="https://img.shields.io/badge/LINKEDIN-ROSYIQ%20NURIL%20HIDAYAT-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -67,3 +67,7 @@ My process:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightLabs12&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
+
+## 📬 Connect with me
+* **LinkedIn:** [Rosyiq Nuril Hidayat](https://linkedin.com/in/rosyiq-nurilhidayat-a07b0a275)
+* **Email:** [nightlab12@gmail.com](mailto:nightlab12@gmail.com)
