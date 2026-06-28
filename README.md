@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Rosyiq (Dayat) 👋
 
-<!--
-**NightLabs12/NightLabs12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Fullstack Developer** focused on building reliable web and mobile systems with efficient data processing. I am always enthusiastic about learning new technologies and continuously expanding my skillset.
 
-Here are some ideas to get you started:
+## 🚀 Core Skills
+* **Backend:** PHP (Laravel), RESTful API, PostgreSQL, MySQL
+* **Mobile & Frontend:** Flutter (Dart), JavaScript, Bootstrap, HTML5 & CSS3
+* **Tools & Infrastructure:** Git & GitHub, Docker, Nginx, System Debugging & Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NightLabs12&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightLabs12&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+</p>
+
+## 📬 Connect with me
+* **Portfolio Website:** [rsyq.dev](https://rsyq.dev)
+* **LinkedIn:** [Rosyiq Nuril Hidayat](https://linkedin.com/in/rosyiq-nurilhidayat-a07b0a275)
+* **Email:** [rosyiqnurilhidayat@gmail.com](mailto:rosyiqnurilhidayat@gmail.com)
+
