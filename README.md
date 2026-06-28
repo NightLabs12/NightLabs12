@@ -1,3 +1,5 @@
+## 👋 Hi there, I'm Rosyiq (Dayat)!
+
 # 🚀 Full-Stack Developer | Custom ERP Specialist & Accounting Information System | Based in Surabaya, Indonesia
 
 <p align="left">
