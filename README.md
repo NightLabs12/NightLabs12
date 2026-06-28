@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there, I'm Rosyiq (Dayat)!</h1>
 
-<h4 align="center">
-  <strong>🚀 Full-Stack Developer | Custom ERP Specialist & Accounting Information System | Based in Surabaya, Indonesia</strong>
-</h4>
+<h3 align="center">
+  <strong>🚀 Full-Stack Developer | Custom ERP </strong>
+</h3>
 
 <p align="center">
   <a href="mailto:rosyiqnurilhidayat@gmail.com">
