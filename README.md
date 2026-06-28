@@ -1,13 +1,12 @@
-<h2 align="center">👋 Hi there, I'm Rosyiq (Dayat)!</h2>
+<h1 align="center">👋 Hi there, I'm Rosyiq (Dayat)!</h1>
 
-# 🚀 Full-Stack Developer | Custom ERP Specialist & Accounting Information System | Based in Surabaya, Indonesia
+<p align="center">
+  <strong>🚀 Full-Stack Developer | Custom ERP Specialist & Accounting Information System | Based in Surabaya, Indonesia</strong>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="mailto:rosyiqnurilhidayat@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-rosyiqnurilhidayat%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/NightLabs12?tab=followers">
-    <img src="https://img.shields.io/github/followers/NightLabs12?label=FOLLOWERS&style=flat-square&color=0891b2" alt="Followers" />
   </a>
   <a href="https://linkedin.com/in/rosyiq-nurilhidayat-a07b0a275">
     <img src="https://img.shields.io/badge/LINKEDIN-ROSYIQ%20NURIL%20HIDAYAT-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,6 +19,7 @@
 *I transform chaotic workflows into clean, automated systems—helping businesses reduce operational overhead, secure their data, and scale efficiently.*
 
 ---
+
 
 ## 🧠 What I Do
 I specialize in developing custom **Enterprise Resource Planning (ERP) systems** and **mobile business applications** that streamline operations. 
