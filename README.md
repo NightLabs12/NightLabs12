@@ -9,15 +9,15 @@ I am a **Fullstack Developer** focused on building reliable web and mobile syste
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NightLabs12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NightLabs12&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightLabs12&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
